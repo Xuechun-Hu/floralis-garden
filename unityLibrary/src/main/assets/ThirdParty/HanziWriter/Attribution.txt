@@ -1,0 +1,2 @@
+FloraWriting.txt contains selected stroke medians from Hanzi Writer Data 2.0.1 (Make Me a Hanzi, Arphic Technology Co., Ltd.). Converted from JSON into text coordinates for this application. This data is distributed under the accompanying Arphic Public License.
+Source: https://github.com/chanind/hanzi-writer-data
